@@ -1,36 +1,35 @@
 # 🛒 ShopEasy - E-Commerce Website
 
-A modern and responsive E-Commerce Website developed using HTML, CSS, and JavaScript. ShopEasy provides an interactive online shopping experience with product browsing, cart management, wishlist, checkout, user authentication, and order tracking.
+A modern and responsive **E-Commerce Website** built using **HTML, CSS, and JavaScript**. ShopEasy provides an intuitive online shopping experience with features like product browsing, search, wishlist, shopping cart, checkout, user authentication, and order history.
 
 ---
 
 ## 🚀 Live Demo
 
-> Add your GitHub Pages link here after deployment.
+🔗 **Live Website:** Coming Soon
 
-Example:
-https://maheshanjankumar05-gif.github.io/Ecommerce-Website/
+> This project will be deployed using **GitHub Pages**.
 
 ---
 
 ## ✨ Features
 
-- 🏠 Attractive Home Page
+- 🏠 Responsive Home Page
 - 📦 Product Listing
 - 🔍 Product Search
-- 🗂️ Category Filter
-- ❤️ Wishlist
-- 🛒 Shopping Cart
-- ➕ Increase/Decrease Quantity
-- 💰 Dynamic Total Price Calculation
+- 🗂️ Category Filtering
 - 📄 Product Details Page
+- ❤️ Wishlist Management
+- 🛒 Shopping Cart
+- ➕ Increase/Decrease Product Quantity
+- 💰 Dynamic Cart Total Calculation
 - 👤 User Registration
 - 🔐 User Login & Logout
 - 💳 Checkout Page
 - 📦 Order Confirmation
 - 📜 Order History
-- 📱 Fully Responsive Design
 - 💾 Local Storage Support
+- 📱 Mobile-Friendly Responsive Design
 
 ---
 
@@ -47,7 +46,7 @@ https://maheshanjankumar05-gif.github.io/Ecommerce-Website/
 
 ## 📁 Project Structure
 
-```
+```text
 Ecommerce-Website/
 │
 ├── css/
@@ -98,57 +97,57 @@ Ecommerce-Website/
 
 ---
 
-## 📸 Screenshots
+# 📸 Screenshots
 
-### Home Page
+## 🏠 Home Page
 
 ![Home Page](screenshots/homepage.png)
 
 ---
 
-### Products Page
+## 📦 Products Page
 
 ![Products](screenshots/products.png)
 
 ---
 
-### Product Details
+## 📄 Product Details
 
 ![Product Details](screenshots/product-details.png)
 
 ---
 
-### Shopping Cart
+## 🛒 Shopping Cart
 
 ![Cart](screenshots/cart.png)
 
 ---
 
-### Checkout
+## 💳 Checkout Page
 
 ![Checkout](screenshots/checkout.png)
 
 ---
 
-### Orders
+## 📦 Orders
 
 ![Orders](screenshots/orders.png)
 
 ---
 
-### Login
+## 🔐 Login Page
 
 ![Login](screenshots/login.png)
 
 ---
 
-### Register
+## 👤 Register Page
 
 ![Register](screenshots/register.png)
 
 ---
 
-### Wishlist
+## ❤️ Wishlist
 
 ![Wishlist](screenshots/wishlist.png)
 
@@ -156,35 +155,52 @@ Ecommerce-Website/
 
 ## ⚙️ Installation
 
-1. Clone the repository
+### 1️⃣ Clone the repository
 
 ```bash
 git clone https://github.com/maheshanjankumar05-gif/Ecommerce-Website.git
 ```
 
-2. Open the project folder
+### 2️⃣ Navigate to the project folder
 
 ```bash
 cd Ecommerce-Website
 ```
 
-3. Open `index.html` in your browser.
+### 3️⃣ Run the project
 
-Or use the VS Code Live Server extension.
+Open `index.html` in your browser
+
+**OR**
+
+Run the project using the **Live Server** extension in Visual Studio Code.
 
 ---
 
-## 📌 Future Improvements
+## 📌 Future Enhancements
 
-- Backend Integration
-- Payment Gateway
-- Database Support
-- Admin Dashboard
-- Product Reviews
-- Email Verification
-- Order Tracking
-- User Profile
-- Dark Mode
+- 🔗 Backend Integration
+- 🗄️ Database Support
+- 💳 Payment Gateway Integration
+- 👨‍💼 Admin Dashboard
+- ⭐ Product Ratings & Reviews
+- 📧 Email Verification
+- 🚚 Real-Time Order Tracking
+- 👤 User Profile Management
+- 🌙 Dark Mode
+- 🔔 Push Notifications
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!
+
+1. Fork the repository.
+2. Create a new feature branch.
+3. Commit your changes.
+4. Push to your branch.
+5. Open a Pull Request.
 
 ---
 
@@ -192,14 +208,32 @@ Or use the VS Code Live Server extension.
 
 **P. Mahesh Anjan Kumar**
 
-GitHub:
+📧 Email: **maheshanjankumar05@gmail.com**
+
+🐙 GitHub:
 https://github.com/maheshanjankumar05-gif
 
-LinkedIn:
-(Add your LinkedIn profile link)
+💼 LinkedIn:
+https://www.linkedin.com/in/your-linkedin-profile/
+
+> Replace the LinkedIn URL above with your actual profile link.
 
 ---
 
-## ⭐ Support
+## 📄 License
 
-If you like this project, please give it a ⭐ on GitHub!
+This project is created for **educational and portfolio purposes**.
+
+---
+
+## ⭐ Show Your Support
+
+If you found this project helpful,
+
+⭐ **Please give this repository a Star on GitHub!**
+
+It motivates me to build more exciting projects.
+
+---
+
+**Made with ❤️ by P. Mahesh Anjan Kumar**

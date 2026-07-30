@@ -1,28 +1,36 @@
 # 🛒 ShopEasy - E-Commerce Website
 
-ShopEasy is a responsive front-end e-commerce website built using **HTML, CSS, and JavaScript**. It provides a modern shopping experience with product browsing, wishlist management, shopping cart, checkout, authentication, and order history.
+A modern and responsive E-Commerce Website developed using HTML, CSS, and JavaScript. ShopEasy provides an interactive online shopping experience with product browsing, cart management, wishlist, checkout, user authentication, and order tracking.
 
 ---
 
-## 📌 Features
+## 🚀 Live Demo
 
-- 🏠 Responsive Home Page
-- 🛍️ Product Listing
+> Add your GitHub Pages link here after deployment.
+
+Example:
+https://maheshanjankumar05-gif.github.io/Ecommerce-Website/
+
+---
+
+## ✨ Features
+
+- 🏠 Attractive Home Page
+- 📦 Product Listing
 - 🔍 Product Search
-- 📂 Category Filter
-- 📄 Product Details
+- 🗂️ Category Filter
 - ❤️ Wishlist
 - 🛒 Shopping Cart
-- ➕ Quantity Management
+- ➕ Increase/Decrease Quantity
+- 💰 Dynamic Total Price Calculation
+- 📄 Product Details Page
+- 👤 User Registration
+- 🔐 User Login & Logout
 - 💳 Checkout Page
-- 💰 Payment Method Selection
-- ✅ Order Success Page
-- 📦 Order History
-- 👤 User Login & Registration
-- ℹ️ About Page
-- 📞 Contact Page
-- 📱 Mobile Responsive Design
-- 💾 LocalStorage Data Persistence
+- 📦 Order Confirmation
+- 📜 Order History
+- 📱 Fully Responsive Design
+- 💾 Local Storage Support
 
 ---
 
@@ -33,27 +41,14 @@ ShopEasy is a responsive front-end e-commerce website built using **HTML, CSS, a
 - JavaScript (ES6)
 - Font Awesome
 - Google Fonts
-- LocalStorage API
+- Local Storage API
 
 ---
 
 ## 📁 Project Structure
 
 ```
-ShopEasy/
-│
-├── index.html
-├── products.html
-├── product-details.html
-├── cart.html
-├── wishlist.html
-├── checkout.html
-├── success.html
-├── orders.html
-├── login.html
-├── register.html
-├── about.html
-├── contact.html
+Ecommerce-Website/
 │
 ├── css/
 │   └── style.css
@@ -61,119 +56,150 @@ ShopEasy/
 ├── js/
 │   ├── script.js
 │   ├── products.js
+│   ├── product.js
 │   ├── product-details.js
 │   ├── cart.js
 │   ├── wishlist.js
 │   ├── checkout.js
+│   ├── payment.js
 │   ├── orders.js
+│   ├── order-history.js
 │   ├── login.js
-│   └── register.js
+│   ├── register.js
+│   └── success.js
 │
-└── images/
-```
-
----
-
-## 🚀 How to Run
-
-1. Download or clone this repository.
-
-```
-git clone https://github.com/yourusername/ShopEasy.git
-```
-
-2. Open the project folder in **Visual Studio Code**.
-
-3. Install the **Live Server** extension.
-
-4. Right-click on **index.html** and select **Open with Live Server**.
-
----
-
-## 📷 Screenshots
-
-Add screenshots of:
-
-- Home Page
-- Products Page
-- Product Details
-- Shopping Cart
-- Checkout
-- Order History
-- Login Page
-
-Create a folder named:
-
-```
-screenshots/
-```
-
-Example:
-
-```
-screenshots/
+├── images/
 │
-├── home.png
-├── products.png
-├── cart.png
-├── checkout.png
-├── orders.png
-└── login.png
+├── screenshots/
+│   ├── homepage.png
+│   ├── products.png
+│   ├── product-details.png
+│   ├── cart.png
+│   ├── checkout.png
+│   ├── orders.png
+│   ├── login.png
+│   ├── register.png
+│   └── wishlist.png
+│
+├── index.html
+├── products.html
+├── product-details.html
+├── wishlist.html
+├── cart.html
+├── checkout.html
+├── orders.html
+├── success.html
+├── login.html
+├── register.html
+├── about.html
+├── contact.html
+└── README.md
 ```
 
 ---
 
-## 🎯 Future Enhancements
+## 📸 Screenshots
 
-- Dark Mode
-- Product Reviews
-- Related Products
-- Recently Viewed Products
-- Product Comparison
-- Admin Dashboard
+### Home Page
+
+![Home Page](screenshots/homepage.png)
+
+---
+
+### Products Page
+
+![Products](screenshots/products.png)
+
+---
+
+### Product Details
+
+![Product Details](screenshots/product-details.png)
+
+---
+
+### Shopping Cart
+
+![Cart](screenshots/cart.png)
+
+---
+
+### Checkout
+
+![Checkout](screenshots/checkout.png)
+
+---
+
+### Orders
+
+![Orders](screenshots/orders.png)
+
+---
+
+### Login
+
+![Login](screenshots/login.png)
+
+---
+
+### Register
+
+![Register](screenshots/register.png)
+
+---
+
+### Wishlist
+
+![Wishlist](screenshots/wishlist.png)
+
+---
+
+## ⚙️ Installation
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/maheshanjankumar05-gif/Ecommerce-Website.git
+```
+
+2. Open the project folder
+
+```bash
+cd Ecommerce-Website
+```
+
+3. Open `index.html` in your browser.
+
+Or use the VS Code Live Server extension.
+
+---
+
+## 📌 Future Improvements
+
 - Backend Integration
-- MongoDB Database
-- Razorpay Payment Gateway
-- Email Notifications
-
----
-
-## 📚 Learning Outcomes
-
-This project helped me practice:
-
-- Responsive Web Design
-- DOM Manipulation
-- JavaScript Functions
-- Event Handling
-- LocalStorage
-- Form Validation
-- E-commerce UI Design
-- Front-end Development
+- Payment Gateway
+- Database Support
+- Admin Dashboard
+- Product Reviews
+- Email Verification
+- Order Tracking
+- User Profile
+- Dark Mode
 
 ---
 
 ## 👨‍💻 Author
 
-**Mahesh Anjan Kumar**
-
-- B.Tech Computer Science Engineering
-- Vignan University
+**P. Mahesh Anjan Kumar**
 
 GitHub:
 https://github.com/maheshanjankumar05-gif
 
 LinkedIn:
-(Add your LinkedIn profile link here)
+(Add your LinkedIn profile link)
 
 ---
 
 ## ⭐ Support
 
-If you like this project, consider giving it a ⭐ on GitHub.
-
----
-
-## 📄 License
-
-This project is created for educational and portfolio purposes.
+If you like this project, please give it a ⭐ on GitHub!

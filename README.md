@@ -101,55 +101,55 @@ Ecommerce-Website/
 
 ## 🏠 Home Page
 
-![Home Page](screenshots/homepage.png)
+![Home Page](homepage.png)
 
 ---
 
 ## 📦 Products Page
 
-![Products](screenshots/products.png)
+![Products](products.png)
 
 ---
 
 ## 📄 Product Details
 
-![Product Details](screenshots/product-details.png)
+![Product Details](product-details.png)
 
 ---
 
 ## 🛒 Shopping Cart
 
-![Cart](screenshots/cart.png)
+![Cart](cart.png)
 
 ---
 
 ## 💳 Checkout Page
 
-![Checkout](screenshots/checkout.png)
+![Checkout](checkout.png)
 
 ---
 
 ## 📦 Orders
 
-![Orders](screenshots/orders.png)
+![Orders](orders.png)
 
 ---
 
 ## 🔐 Login Page
 
-![Login](screenshots/login.png)
+![Login](login.png)
 
 ---
 
 ## 👤 Register Page
 
-![Register](screenshots/register.png)
+![Register](register.png)
 
 ---
 
 ## ❤️ Wishlist
 
-![Wishlist](screenshots/wishlist.png)
+![Wishlist](wishlist.png)
 
 ---
 

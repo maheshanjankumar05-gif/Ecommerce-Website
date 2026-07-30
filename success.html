@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Order Successful | ShopEasy</title>
+
+<link rel="stylesheet" href="css/style.css">
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+<link rel="stylesheet"
+href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+
+</head>
+
+<body>
+
+<!-- ================= NAVBAR ================= -->
+
+<header>
+
+<nav class="navbar">
+
+<div class="logo">
+<h2>🛒 ShopEasy</h2>
+</div>
+
+<ul class="nav-links">
+
+<li><a href="index.html">Home</a></li>
+
+<li><a href="products.html">Products</a></li>
+
+<li><a href="wishlist.html">Wishlist</a></li>
+
+<li><a href="cart.html">Cart</a></li>
+
+<li><a href="order-history.html">Orders</a></li>
+
+</ul>
+
+<a href="cart.html" class="cart">
+
+<i class="fas fa-shopping-cart"></i>
+
+<span id="cart-count">0</span>
+
+</a>
+
+</nav>
+
+</header>
+
+<!-- ================= SUCCESS ================= -->
+
+<section class="success-section">
+
+<div class="success-card">
+
+<i class="fas fa-check-circle success-icon"></i>
+
+<h1>Order Placed Successfully!</h1>
+
+<p>
+
+Thank you for shopping with <strong>ShopEasy</strong>.
+
+Your order has been confirmed and is now being processed.
+
+</p>
+
+<div class="order-info">
+
+<p>
+<strong>Order ID :</strong>
+
+<span id="orderId"></span>
+
+</p>
+
+<p>
+<strong>Order Date :</strong>
+
+<span id="orderDate"></span>
+
+</p>
+
+<p>
+<strong>Payment :</strong>
+
+<span id="paymentMethod"></span>
+
+</p>
+
+<p>
+<strong>Total Amount :</strong>
+
+<span id="totalAmount"></span>
+
+</p>
+
+</div>
+
+<div class="success-buttons">
+
+<a href="products.html" class="btn">
+
+Continue Shopping
+
+</a>
+
+<a href="order-history.html" class="btn secondary-btn">
+
+View Orders
+
+</a>
+
+<button class="btn invoice-btn" onclick="downloadInvoice()">
+
+<i class="fas fa-file-download"></i>
+
+Download Invoice
+
+</button>
+
+</div>
+
+</div>
+
+</section>
+
+<!-- ================= FOOTER ================= -->
+
+<footer>
+
+<div class="footer-content">
+
+<h3>ShopEasy</h3>
+
+<p>Your trusted online shopping destination.</p>
+
+<p>
+
+<a href="products.html">Products</a> |
+
+<a href="wishlist.html">Wishlist</a> |
+
+<a href="order-history.html">Orders</a>
+
+</p>
+
+<p>© 2026 ShopEasy. All Rights Reserved.</p>
+
+</div>
+
+</footer>
+
+<script src="js/success.js"></script>
+
+</body>
+</html>

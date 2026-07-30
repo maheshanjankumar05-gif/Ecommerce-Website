@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Payment | ShopEasy</title>
+
+<link rel="stylesheet" href="css/style.css">
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+<link rel="stylesheet"
+href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+
+</head>
+
+<body>
+
+<header>
+
+<nav class="navbar">
+
+<div class="logo">
+<h2>🛒 ShopEasy</h2>
+</div>
+
+<ul class="nav-links">
+
+<li><a href="index.html">Home</a></li>
+<li><a href="products.html">Products</a></li>
+<li><a href="wishlist.html">Wishlist</a></li>
+<li><a href="cart.html">Cart</a></li>
+
+</ul>
+
+<a href="cart.html" class="cart">
+<i class="fas fa-shopping-cart"></i>
+<span id="cart-count">0</span>
+</a>
+
+</nav>
+
+</header>
+
+<section class="payment-page">
+
+<h1>Payment</h1>
+
+<div class="payment-container">
+
+<div class="payment-methods">
+
+<h2>Select Payment Method</h2>
+
+<label class="payment-option">
+<input type="radio" name="payment" value="Card" checked>
+💳 Credit / Debit Card
+</label>
+
+<label class="payment-option">
+<input type="radio" name="payment" value="UPI">
+📱 UPI
+</label>
+
+<label class="payment-option">
+<input type="radio" name="payment" value="Cash on Delivery">
+💵 Cash on Delivery
+</label>
+
+</div>
+
+<div class="order-summary">
+
+<h2>Order Summary</h2>
+
+<p>Total Items:
+<strong id="totalItems">0</strong>
+</p>
+
+<p>Total Amount:
+<strong id="totalAmount">₹0</strong>
+</p>
+
+<button id="payBtn" class="buy-btn">
+Confirm Payment
+</button>
+
+</div>
+
+</div>
+
+</section>
+
+<footer>
+
+<p>© 2026 ShopEasy. All Rights Reserved.</p>
+
+</footer>
+
+<script src="js/payment.js"></script>
+
+</body>
+</html>

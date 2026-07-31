@@ -111,7 +111,7 @@ Ecommerce-Website/
 
 ## 📦 Products Page
 
-![Products](./screenshots/products.png)
+![image_alt](https://github.com/maheshanjankumar05-gif/Ecommerce-Website/blob/35fa5a0bb87305c6d25605608e08a2967b925766/Screenshot%202026-07-30%20055150.png)
 
 ---
 

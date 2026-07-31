@@ -117,7 +117,7 @@ Ecommerce-Website/
 
 ## 📄 Product Details
 
-![Product Details](./screenshots/product-details.png)
+![image alt](https://github.com/maheshanjankumar05-gif/Ecommerce-Website/blob/ce3fa27153bce59aacc1ad88e2ddba829258cbe0/Screenshot%202026-07-30%20204141.png)
 
 ---
 

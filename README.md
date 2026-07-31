@@ -147,7 +147,7 @@ Ecommerce-Website/
 
 ## 👤 Register
 
-![Register](./screenshots/register.png)
+![image_alt](https://github.com/maheshanjankumar05-gif/Ecommerce-Website/blob/03a1631368701b7fbce14182494936b413d5cb89/Screenshot%202026-07-30%20210420.png)
 
 ---
 

@@ -123,7 +123,7 @@ Ecommerce-Website/
 
 ## 🛒 Shopping Cart
 
-![Cart](./screenshots/cart.png)
+![image_alt](https://github.com/maheshanjankumar05-gif/Ecommerce-Website/blob/d0c2577107cf70d099a17cc799b546bc8757e428/Screenshot%202026-07-30%20203457.png)
 
 ---
 

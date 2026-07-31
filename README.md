@@ -1,39 +1,43 @@
 # 🛒 ShopEasy - E-Commerce Website
 
-A modern and responsive **E-Commerce Website** built using **HTML, CSS, and JavaScript**. ShopEasy provides an intuitive online shopping experience with features like product browsing, search, wishlist, shopping cart, checkout, user authentication, and order history.
+A modern and responsive **E-Commerce Website** built using **HTML5, CSS3, and JavaScript**. ShopEasy provides an interactive online shopping experience with product browsing, product details, wishlist management, shopping cart, checkout, user authentication, and order history.
 
 ---
 
 ## 🚀 Live Demo
 
-🔗 **Live Website:** Coming Soon
+**GitHub Repository**
 
-> This project will be deployed using **GitHub Pages**.
+https://github.com/maheshanjankumar05-gif/Ecommerce-Website
+
+**Live Website (GitHub Pages)**
+
+Coming Soon...
 
 ---
 
-## ✨ Features
+# ✨ Features
 
 - 🏠 Responsive Home Page
 - 📦 Product Listing
 - 🔍 Product Search
 - 🗂️ Category Filtering
 - 📄 Product Details Page
-- ❤️ Wishlist Management
+- ❤️ Wishlist
 - 🛒 Shopping Cart
-- ➕ Increase/Decrease Product Quantity
-- 💰 Dynamic Cart Total Calculation
+- ➕ Increase/Decrease Quantity
+- 💰 Dynamic Cart Total
 - 👤 User Registration
 - 🔐 User Login & Logout
 - 💳 Checkout Page
 - 📦 Order Confirmation
 - 📜 Order History
 - 💾 Local Storage Support
-- 📱 Mobile-Friendly Responsive Design
+- 📱 Mobile Friendly Design
 
 ---
 
-## 🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 - HTML5
 - CSS3
@@ -44,7 +48,7 @@ A modern and responsive **E-Commerce Website** built using **HTML, CSS, and Java
 
 ---
 
-## 📁 Project Structure
+# 📁 Project Structure
 
 ```text
 Ecommerce-Website/
@@ -101,139 +105,158 @@ Ecommerce-Website/
 
 ## 🏠 Home Page
 
-![Home Page](homepage.png)
+![Home Page](./screenshots/homepage.png)
 
 ---
 
 ## 📦 Products Page
 
-![Products](products.png)
+![Products](./screenshots/products.png)
 
 ---
 
 ## 📄 Product Details
 
-![Product Details](product-details.png)
+![Product Details](./screenshots/product-details.png)
 
 ---
 
 ## 🛒 Shopping Cart
 
-![Cart](cart.png)
+![Cart](./screenshots/cart.png)
 
 ---
 
-## 💳 Checkout Page
+## 💳 Checkout
 
-![Checkout](checkout.png)
+![Checkout](./screenshots/checkout.png)
 
 ---
 
 ## 📦 Orders
 
-![Orders](orders.png)
+![Orders](./screenshots/orders.png)
 
 ---
 
-## 🔐 Login Page
+## 🔐 Login
 
-![Login](login.png)
+![Login](./screenshots/login.png)
 
 ---
 
-## 👤 Register Page
+## 👤 Register
 
-![Register](register.png)
+![Register](./screenshots/register.png)
 
 ---
 
 ## ❤️ Wishlist
 
-![Wishlist](wishlist.png)
+![Wishlist](./screenshots/wishlist.png)
 
 ---
 
-## ⚙️ Installation
+# ⚙️ Installation
 
-### 1️⃣ Clone the repository
+### Clone the repository
 
 ```bash
 git clone https://github.com/maheshanjankumar05-gif/Ecommerce-Website.git
 ```
 
-### 2️⃣ Navigate to the project folder
+### Go to the project folder
 
 ```bash
 cd Ecommerce-Website
 ```
 
-### 3️⃣ Run the project
+### Open the project
 
-Open `index.html` in your browser
+Open **index.html** in your browser
 
-**OR**
+or
 
-Run the project using the **Live Server** extension in Visual Studio Code.
-
----
-
-## 📌 Future Enhancements
-
-- 🔗 Backend Integration
-- 🗄️ Database Support
-- 💳 Payment Gateway Integration
-- 👨‍💼 Admin Dashboard
-- ⭐ Product Ratings & Reviews
-- 📧 Email Verification
-- 🚚 Real-Time Order Tracking
-- 👤 User Profile Management
-- 🌙 Dark Mode
-- 🔔 Push Notifications
+Run using the **Live Server** extension in Visual Studio Code.
 
 ---
 
-## 🤝 Contributing
+# 📌 Future Enhancements
+
+- Backend Integration
+- Database Connectivity
+- Payment Gateway Integration
+- Admin Dashboard
+- Product Reviews & Ratings
+- Email Verification
+- User Profile
+- Order Tracking
+- Dark Mode
+- Push Notifications
+
+---
+
+# 🤝 Contributing
 
 Contributions are welcome!
 
 1. Fork the repository.
-2. Create a new feature branch.
+2. Create a new branch.
+
+```bash
+git checkout -b feature-name
+```
+
 3. Commit your changes.
-4. Push to your branch.
-5. Open a Pull Request.
+
+```bash
+git commit -m "Added new feature"
+```
+
+4. Push to GitHub.
+
+```bash
+git push origin feature-name
+```
+
+5. Create a Pull Request.
 
 ---
 
-## 👨‍💻 Author
+# 👨‍💻 Author
 
 **P. Mahesh Anjan Kumar**
 
-📧 Email: **maheshanjankumar05@gmail.com**
+📧 Email
 
-🐙 GitHub:
+maheshanjankumar05@gmail.com
+
+🐙 GitHub
+
 https://github.com/maheshanjankumar05-gif
 
-💼 LinkedIn:
-https://www.linkedin.com/in/your-linkedin-profile/
+💼 LinkedIn
 
-> Replace the LinkedIn URL above with your actual profile link.
+https://www.linkedin.com/
 
----
-
-## 📄 License
-
-This project is created for **educational and portfolio purposes**.
+> Replace the LinkedIn URL with your own profile link.
 
 ---
 
-## ⭐ Show Your Support
+# 📄 License
 
-If you found this project helpful,
-
-⭐ **Please give this repository a Star on GitHub!**
-
-It motivates me to build more exciting projects.
+This project is developed for **educational and portfolio purposes**.
 
 ---
 
-**Made with ❤️ by P. Mahesh Anjan Kumar**
+# ⭐ Support
+
+If you like this project,
+
+⭐ Please **Star** this repository on GitHub.
+
+Thank you for visiting my project!
+
+---
+
+## Made with ❤️ by P. Mahesh Anjan Kumar

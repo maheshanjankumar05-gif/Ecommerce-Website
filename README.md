@@ -129,7 +129,7 @@ Ecommerce-Website/
 
 ## 💳 Checkout
 
-![Checkout](./screenshots/checkout.png)
+![image_alt](https://github.com/maheshanjankumar05-gif/Ecommerce-Website/blob/061a8e266f270f7384ca9ecd4b2207d1f4df80df/Screenshot%202026-07-30%20203817.png)
 
 ---
 

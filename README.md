@@ -153,7 +153,7 @@ Ecommerce-Website/
 
 ## ❤️ Wishlist
 
-![Wishlist](./screenshots/wishlist.png)
+![image_alt](https://github.com/maheshanjankumar05-gif/Ecommerce-Website/blob/5e61129410561c9fe227d6c8f229613f532482d5/Screenshot%202026-07-30%20210553.png)
 
 ---
 

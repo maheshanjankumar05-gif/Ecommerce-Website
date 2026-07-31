@@ -105,7 +105,7 @@ Ecommerce-Website/
 
 ## 🏠 Home Page
 
-![Home Page](./screenshots/homepage.png)
+![image_alt](https://github.com/maheshanjankumar05-gif/Ecommerce-Website/blob/58b633c3b7f6366b753caf13345e9aa7c5e4768d/Screenshot%202026-07-30%20204104.png)
 
 ---
 

@@ -141,7 +141,7 @@ Ecommerce-Website/
 
 ## 🔐 Login
 
-![Login](./screenshots/login.png)
+![image_alt](https://github.com/maheshanjankumar05-gif/Ecommerce-Website/blob/6c85706ef8cb7c07e367d1d3f6d8522c2355ee7e/Screenshot%202026-07-30%20204032.png)
 
 ---
 

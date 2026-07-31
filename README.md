@@ -135,7 +135,7 @@ Ecommerce-Website/
 
 ## 📦 Orders
 
-![Orders](./screenshots/orders.png)
+![image_alt](https://github.com/maheshanjankumar05-gif/Ecommerce-Website/blob/d923b89a707de54a8f80138377434e28c2c47191/Screenshot%202026-07-30%20203903.png)
 
 ---
 
